@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11af6e41-b59f-4643-a23f-b799014a5874" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tryhard_LMT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D1/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D1/B1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D1/B1/Client_chanle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D1/B1/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D1/B1/Server_chanle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D1/B2/Client_Tudien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D1/B2/Server_Tudien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D1/B2/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D1/B2/interface_Tudien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D2/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D2/B2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D2/B2/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D2/B2/sinhvien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D3/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D3/B1/Client_GT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D3/B1/Server_GT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D3/B2/Client_chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D3/B2/Server_Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D4/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D5/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D6/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D7/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D8/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D1/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D1/B1_Client_chanle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D1/B1_Server_chanle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D1/B2_Client_Tudien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D2/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D3/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D4/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D5/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D6/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D7/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D8/8.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1qc8YI6ID1bgZktcgGDzs9Oks3K" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Client_GT">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D1.B1.Client" />
+      <module name="Tryhard_LMT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D1.B1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D2.B2.Client" />
+      <module name="Tryhard_LMT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D2.B2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client_GT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D3.B1.Client_GT" />
+      <module name="Tryhard_LMT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D3.B1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D2.B2.Server" />
+      <module name="Tryhard_LMT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D2.B2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server_GT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D3.B1.Server_GT" />
+      <module name="Tryhard_LMT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D3.B1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.Server_GT" />
+      <item itemvalue="Application.Client_GT" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client_GT" />
+        <item itemvalue="Application.Server_GT" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Client (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11af6e41-b59f-4643-a23f-b799014a5874" name="Default Changelist" comment="" />
+      <created>1617367565937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617367565937</updated>
+      <workItem from="1617367567895" duration="453000" />
+      <workItem from="1617368095784" duration="6840000" />
+      <workItem from="1617380800388" duration="1055000" />
+      <workItem from="1617385101478" duration="1402000" />
+      <workItem from="1617526063747" duration="6380000" />
+      <workItem from="1617621874271" duration="306000" />
+      <workItem from="1617707937333" duration="850000" />
+      <workItem from="1617711817529" duration="5912000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
