@@ -2,54 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11af6e41-b59f-4643-a23f-b799014a5874" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tryhard_LMT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D1/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D1/B1/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D1/B1/Client_chanle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D1/B1/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D1/B1/Server_chanle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D1/B2/Client_Tudien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D1/B2/Server_Tudien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D1/B2/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D1/B2/interface_Tudien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D2/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D2/B2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D2/B2/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D2/B2/sinhvien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D3/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D3/B1/Client_GT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D3/B1/Server_GT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D3/B2/Client_chat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D3/B2/Server_Chat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D5/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D6/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D7/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D8/8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/manifest.mf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/nbproject/build-impl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/nbproject/genfiles.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/nbproject/project.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/nbproject/project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D1/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D1/B1_Client_chanle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D1/B1_Server_chanle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D1/B2_Client_Tudien.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D2/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D3/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D4/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D5/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D6/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D7/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tryhard_LTM/src/D8/8.jpg" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D2/Bai2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D2/Bai2/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D4/B2/Client_thiTracNghiem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D4/B2/QnA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D4/B2/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D4/B2/Server_thiTracNghiem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D4/b1/ClientUDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D4/b1/ServerUDP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tryhard_LMT/D1/B1/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tryhard_LMT/D1/B1/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D1/B1/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D1/B1/Server.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,18 +108,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Client_GT">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D1.B1.Client" />
+  <component name="RunManager" selected="Application.Client_thiTracNghiem">
+    <configuration name="ClientUDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D4.b1.ClientUDP" />
       <module name="Tryhard_LMT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D1.B1.*" />
+          <option name="PATTERN" value="D4.b1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,25 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D2.B2.Client" />
+    <configuration name="Client_thiTracNghiem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D4.B2.Client_thiTracNghiem" />
       <module name="Tryhard_LMT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D2.B2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client_GT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D3.B1.Client_GT" />
-      <module name="Tryhard_LMT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="D3.B1.*" />
+          <option name="PATTERN" value="D4.B2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,11 +142,11 @@
       </method>
     </configuration>
     <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D2.B2.Server" />
+      <option name="MAIN_CLASS_NAME" value="D2.Bai2.Server" />
       <module name="Tryhard_LMT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D2.B2.*" />
+          <option name="PATTERN" value="D2.Bai2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server_GT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D3.B1.Server_GT" />
+    <configuration name="ServerUDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D4.b1.ServerUDP" />
       <module name="Tryhard_LMT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D3.B1.*" />
+          <option name="PATTERN" value="D4.b1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,33 +167,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="Server_thiTracNghiem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D4.B2.Server_thiTracNghiem" />
+      <module name="Tryhard_LMT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D4.B2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.ServerUDP" />
+      <item itemvalue="Application.ClientUDP" />
       <item itemvalue="Application.Server" />
-      <item itemvalue="Application.Client (1)" />
-      <item itemvalue="Application.Server_GT" />
-      <item itemvalue="Application.Client_GT" />
+      <item itemvalue="Application.Server_thiTracNghiem" />
+      <item itemvalue="Application.Client_thiTracNghiem" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client_GT" />
-        <item itemvalue="Application.Server_GT" />
-        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client_thiTracNghiem" />
+        <item itemvalue="Application.Server_thiTracNghiem" />
+        <item itemvalue="Application.ClientUDP" />
         <item itemvalue="Application.Server" />
-        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.ServerUDP" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +223,14 @@
       <workItem from="1617526063747" duration="6380000" />
       <workItem from="1617621874271" duration="306000" />
       <workItem from="1617707937333" duration="850000" />
-      <workItem from="1617711817529" duration="5912000" />
+      <workItem from="1617711817529" duration="6252000" />
+      <workItem from="1617729912926" duration="1168000" />
+      <workItem from="1617731573773" duration="333000" />
+      <workItem from="1617764708456" duration="3132000" />
+      <workItem from="1617768940443" duration="47000" />
+      <workItem from="1617813229435" duration="536000" />
+      <workItem from="1617818525450" duration="434000" />
+      <workItem from="1617874158457" duration="3961000" />
     </task>
     <servers />
   </component>
@@ -282,5 +251,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
